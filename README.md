@@ -12,11 +12,11 @@ In our talk we present why it's a good idea to distill user interface components
 
 2. Code Examples:
 
-   a) [rollup.config.js](): We altered the original [vue-sfc-rollup](https://github.com/team-innovation/vue-sfc-rollup) config to also bundle up SCSS files and only export ES modules.
+   a) [rollup.config.js](https://github.com/areindl/vueconf-build-a-component-library/blob/main/examples/rollup.config.js): We altered the original [vue-sfc-rollup](https://github.com/team-innovation/vue-sfc-rollup) config to also bundle up SCSS files and only export ES modules.
 
-   b) [tailwind.config.js](): In your consuming project / product you can import the tailwind.config.js from your library and extend it to your needs. This file is just an exanmple. It's show how easy to can extend your library on your project.
+   b) [tailwind.config.js](https://github.com/areindl/vueconf-build-a-component-library/blob/main/examples/tailwind.config.js): In your consuming project / product you can import the tailwind.config.js from your library and extend it to your needs. This file is just an exanmple. It's show how easy to can extend your library on your project.
 
-   c) [app.scss](): In your consuming project / product you can import the libary.scss from your library and extend it to your needs. This file is just an example.
+   c) [app.scss](https://github.com/areindl/vueconf-build-a-component-library/blob/main/examples/app.scss): In your consuming project / product you can import the libary.scss from your library and extend it to your needs. This file is just an example.
 
 ## Next Steps
 
